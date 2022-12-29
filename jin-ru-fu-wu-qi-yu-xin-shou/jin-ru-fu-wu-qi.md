@@ -8,11 +8,11 @@
 
 将这个文件下载至自己的电脑当中 "注意请不要把他下载到桌面上！"
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 然后我们对这个文件进行解压
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 解压后，我们在这个文件中找到名为 "GTAFivemLaunch.exe"的文件 图标与海滨都市的logo一致
 

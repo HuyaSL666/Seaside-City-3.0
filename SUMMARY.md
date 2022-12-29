@@ -6,7 +6,7 @@
 
 * [白名单体系](jin-ru-fu-wu-qi-yu-xin-shou/bai-ming-dan-ti-xi.md)
 * [进入服务器](jin-ru-fu-wu-qi-yu-xin-shou/jin-ru-fu-wu-qi.md)
-* [创建角色](jin-ru-fu-wu-qi-yu-xin-shou/chuang-jian-jiao-se.md)
+* [创建角色](jin-ru-fu-wu-qi-yu-xin-shou/chuang-jian-jiao-se-yu-chu-sheng.md)
 
 ## ⌨ 基础内容
 

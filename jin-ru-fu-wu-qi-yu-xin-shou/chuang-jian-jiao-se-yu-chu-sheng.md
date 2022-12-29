@@ -12,4 +12,4 @@
 
 这里的所有信息必须与你白名单填写的一致
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (6).png>)
