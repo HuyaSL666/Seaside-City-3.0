@@ -6,7 +6,7 @@
 
 在这里你可以购买简单的冷武器 (棒球棍，等...) 或者为你的武器购买染色喷漆
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 
 
@@ -22,4 +22,4 @@
 
 这里展示了武器商店内的所有商品
 
-![](<../.gitbook/assets/image (9) (1).png>)
+![](<../.gitbook/assets/image (9).png>)

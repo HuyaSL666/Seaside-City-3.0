@@ -36,7 +36,7 @@
 
 当我们按 TAB 键 则可以打开背包或车辆后备箱功能 按 Z 键可以快速查看快捷栏的物品
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
 #### 容量
 
@@ -44,17 +44,17 @@
 
 #### 玩家背包容量显示
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 #### 物品重量显示
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 #### 6号位 （隐藏储物格）
 
 在每个玩家的背包菜单最底部都会有一个标注 “6” 的格子 这是一个玩家们的隐藏格子 当我们被其他玩家打劫时 这个格子内的物品是无法被其他玩家发现的 但注意！如果警察搜身则是可以查看6号位的物品的
 
-![](<../.gitbook/assets/image (1) (2).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 
 
@@ -74,7 +74,7 @@
 
 已经开启了语音系统后 在游戏中我们按住 N 键可以直接与其他玩家进行对话 当我们按 \~ 键 则可以调整游戏的说话范围 游戏屏幕的右下角也会显示你当前的说话范围与对讲机频率
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 #### 对讲机功能
 
@@ -82,7 +82,7 @@
 
 红色箭头代表设置频率 中间的数字代表频率（你可以自己设置）
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 
 
@@ -106,7 +106,7 @@
 
 当我们拥有手机后在游戏内 按 M 键即可打开手机
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 
 

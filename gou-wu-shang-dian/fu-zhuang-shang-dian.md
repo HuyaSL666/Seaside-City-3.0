@@ -6,13 +6,13 @@
 
 在这里你可以更换服装
 
-![](<../.gitbook/assets/image (2).png>)
+![](../.gitbook/assets/image.png)
 
 #### 交互
 
 当我们对准交互的NPC按住 ALT 键时 屏幕的中间会出现一个 "眼睛" 图标 如果我们正确的对准交互目标 它会变成绿色 然后我们按一下鼠标右键 则会弹出一个鼠标 让你选择相应的选项
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 
 
@@ -20,4 +20,4 @@
 
 这里展示了服装菜单
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (5).png>)
