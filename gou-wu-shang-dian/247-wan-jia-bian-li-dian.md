@@ -8,7 +8,7 @@
 
 ## 地图图标
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 
 
@@ -16,13 +16,13 @@
 
 当我们对准交互的NPC按住 ALT 键时 屏幕的中间会出现一个 "眼睛" 图标 如果我们正确的对准交互目标 它会变成绿色 然后我们按一下鼠标右键 则会弹出一个鼠标 让你选择相应的选项
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (19).png>)
 
 
 
 ## 玩家购买商品
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (18).png>)
 
 
 

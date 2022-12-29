@@ -12,7 +12,7 @@
 
 然后我们对这个文件进行解压
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 解压后，我们在这个文件中找到名为 "GTAFivemLaunch.exe"的文件 图标与海滨都市的logo一致
 
@@ -22,4 +22,4 @@
 
 打开这个启动器后 我们直接点击启动游戏即可
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
