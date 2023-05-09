@@ -19,4 +19,4 @@
 * [汽车商店](gou-wu-shang-dian/qi-che-shang-dian.md)
 * [武器商店](gou-wu-shang-dian/wu-qi-shang-dian.md)
 * [服装商店](gou-wu-shang-dian/fu-zhuang-shang-dian.md)
-* [24/7 玩家便利店](gou-wu-shang-dian/247-wan-jia-bian-li-dian.md)
+* [24/7 便利店](gou-wu-shang-dian/247-bian-li-dian.md)
