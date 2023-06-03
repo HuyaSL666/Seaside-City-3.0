@@ -6,11 +6,11 @@
 
 首先第一次进入服务器 我们应该会处于这个界面
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (15).png>)
 
 我们点击 "空位槽"
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 然后我们需要将以下的空位进行填写
 
@@ -22,4 +22,4 @@
 
 然后我们点击“创建我的角色”即可
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
