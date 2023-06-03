@@ -18,17 +18,17 @@
 
 **如果你不会用小眼睛 那么在目录里的 "基础按键与功能" 里有教**
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 **我们点击 加入工作后 此时你就可以看到所有此工作的团队了**&#x20;
 
 **你也可以自己创建一个团队 召集你的好基友一起进行此工作**
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (3).png>)
 
 **当我们召集好所有的好基友后 团队的队长可以在平板电脑里 点击“开始工作”选项开始工作**
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 **然后 我们点击绿色的对号**
 

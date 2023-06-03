@@ -25,3 +25,4 @@
 
 * [公交车](quan-bu-gong-zuo/gong-jiao-che.md)
 * [货运工作](quan-bu-gong-zuo/huo-yun-gong-zuo.md)
+* [垃圾车工作](quan-bu-gong-zuo/la-ji-che-gong-zuo.md)

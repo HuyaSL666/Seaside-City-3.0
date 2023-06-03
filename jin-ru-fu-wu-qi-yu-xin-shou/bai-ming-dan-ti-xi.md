@@ -12,7 +12,7 @@
 
 白名单笔试 首先你需要进入我们的KOOK(原开黑啦)频道 [https://kook.top/tseez8](https://kook.top/tseez8) 在这个频道中你可以通过查阅以下频道中的资料来了解白名单申请表的提交流程
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
 然后按照开黑啦中的步骤来填写白名单申请表
 
