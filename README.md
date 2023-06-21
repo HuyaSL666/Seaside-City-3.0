@@ -21,3 +21,9 @@
 ## 其他文档
 
 法律文档：[https://docs.qq.com/doc/DU05EZkFXTHRQUkJU](https://docs.qq.com/doc/DU05EZkFXTHRQUkJU)
+
+非法组织扮演手册：[https://docs.qq.com/doc/DV1ZXeVJvb3VZcXJi](https://docs.qq.com/doc/DV1ZXeVJvb3VZcXJi)
+
+组织管理制度：[https://docs.qq.com/doc/DU2pmTURUc0R4WXJB](https://docs.qq.com/doc/DU2pmTURUc0R4WXJB)
+
+各申请项审核标准(产业与组织申请/非法扮演申请)：[https://docs.qq.com/doc/DV0JJSlFUeFlxbUpL](https://docs.qq.com/doc/DV0JJSlFUeFlxbUpL)
